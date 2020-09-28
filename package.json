@@ -1,4 +1,7 @@
 {
+  "bin": {
+    "resume-me": "./index.js"
+  },
   "name": "allisonquiroz-resume",
   "version": "1.0.0",
   "description": "",
@@ -10,6 +13,3 @@
   "license": "ISC"
 }
 
-"bin": {
-  "resume-me": "./index.js"
-},
